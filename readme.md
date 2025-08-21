@@ -27,7 +27,7 @@ and other words in commands you can type same.
 5. Now, your all files, folders, pictures, videos are install on server side.
 
 6. Now, you will go on your instances and connect and copy the URL & paste on git bash.
-   [image alt](https://github.com/prakash250704/prakashgore/blob/main/ss3.png?raw=true)
+![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss3.png?raw=true)
 
 7. Type some cammands and run it on the incognito window:
     ## Commands:
@@ -50,6 +50,7 @@ and other words in commands you can type same.
 I will be share fully practically next time and we are downlaoding the new template.
 
    ## Thank You !!
+
 
 
 
