@@ -5,9 +5,9 @@ Today I will share all practically in image format. I will explore today the sho
 
 ## Steps:
 1. Download the html css website templates from browser.
-2. ![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss10.png?raw=true)
+![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss10.png?raw=true)
 
-3. It is downloaded in zip format.
+2. It is downloaded in zip format.
 ![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss11.png?raw=true)
 
 4. Cut that and paste in ssh-key folder in simple format(means not in zip format). If you want then rename it, I do rename it **shop**.
@@ -35,4 +35,5 @@ where, **sudo vim /etc/nginx/nginx.conf** displays the
 
     **I hope it is helpful to my tech friends.**
     ## Thank You
+
 
