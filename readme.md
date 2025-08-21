@@ -9,7 +9,7 @@ This is my first website hosting on ec2 instance
 
 # Steps:
 1: Go to AWS management console and sign in. Click on launch instances and create the instance.
-![website UI](./img/ss2(1).png)
+![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss2(1).png?raw=true)
 
 2: Download the static website hosting templates file from browser, it is in zip format.
 
@@ -50,5 +50,6 @@ and other words in commands you can type same.
 I will be share fully practically next time and we are downlaoding the new template.
 
    ## Thank You !!
+
 
 
