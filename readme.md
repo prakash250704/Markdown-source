@@ -5,7 +5,7 @@ Hello Everyone.
 I will share something with you about how to display the templates on the server side and I hope it is helpful for my tech friends.
 ## Introduction
 This is my first website hosting on ec2 instance
-![website UI](./img/ss1.png)
+![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss1.png?raw=true)
 
 # Steps:
 1: Go to AWS management console and sign in. Click on launch instances and create the instance.
@@ -48,4 +48,5 @@ and other words in commands you can type same.
 
 
 I will be share fully practically next time and we are downlaoding the new template.
+
    ## Thank You !!
