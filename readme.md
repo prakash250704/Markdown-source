@@ -9,7 +9,7 @@ This is my first website hosting on ec2 instance
 
 # Steps:
 1: Go to AWS management console and sign in. Click on launch instances and create the instance.
-![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss2(1).png?raw=true)
+![image alt](https://github.com/prakash250704/Markdown-source/blob/main/ss2(1).png?raw=true)
 
 2: Download the static website hosting templates file from browser, it is in zip format.
 
@@ -27,7 +27,7 @@ and other words in commands you can type same.
 5. Now, your all files, folders, pictures, videos are install on server side.
 
 6. Now, you will go on your instances and connect and copy the URL & paste on git bash.
-![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss3.png?raw=true)
+![image alt](https://github.com/prakash250704/Markdown-source/blob/main/ss3.png?raw=true)
 
 7. Type some cammands and run it on the incognito window:
     ## Commands:
@@ -39,10 +39,10 @@ and other words in commands you can type same.
     - **ls**                           # to display data of html
 
     - **cat /etc/nginx/nginx.conf**     # to check the server information like port no., path, or .html file.
-    ![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss7.png?raw=true)
+    ![image alt](https://github.com/prakash250704/Markdown-source/blob/main/ss7.png?raw=true)
 
     - **sudo vim /etc/nginx/nginx.conf**  # to make changes in server information if you want.
-    ![image alt](https://github.com/prakash250704/prakashgore/blob/main/ss7(1).png?raw=true)
+    ![image alt](https://github.com/prakash250704/Markdown-source/blob/main/ss7(1).png?raw=true)
 
 8. Now last step, Copy your public IP and paste on incognito window. It will display the GUI of your request on the browser.
 
@@ -50,6 +50,7 @@ and other words in commands you can type same.
 I will be share fully practically next time and we are downlaoding the new template.
 
    ## Thank You !!
+
 
 
 
